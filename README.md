@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **ClassRoom**
 
--  I’m currently working on **ClassRoom**
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **---**
